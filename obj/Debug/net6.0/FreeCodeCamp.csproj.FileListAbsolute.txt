@@ -1,0 +1,14 @@
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\bin\Debug\net6.0\FreeCodeCamp.exe
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\bin\Debug\net6.0\FreeCodeCamp.deps.json
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\bin\Debug\net6.0\FreeCodeCamp.runtimeconfig.json
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\bin\Debug\net6.0\FreeCodeCamp.dll
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\bin\Debug\net6.0\FreeCodeCamp.pdb
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\FreeCodeCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\FreeCodeCamp.AssemblyInfoInputs.cache
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\FreeCodeCamp.AssemblyInfo.cs
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\FreeCodeCamp.csproj.CoreCompileInputs.cache
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\FreeCodeCamp.dll
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\refint\FreeCodeCamp.dll
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\FreeCodeCamp.pdb
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\FreeCodeCamp.genruntimeconfig.cache
+C:\Docs\CodeBase\cSharpPractice\FreeCodeCamp\obj\Debug\net6.0\ref\FreeCodeCamp.dll

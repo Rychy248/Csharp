@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ll36BorplCqI9WvVM4DdsAgAvWERBlj7Tz1KtT+fRpphAQM5ggIKG+b/c3ZWifRbIULaxgJAXgQtCovG9oN6g==",
+  "success": true,
+  "projectFilePath": "C:\\Docs\\CodeBase\\cSharpPractice\\FreeCodeCamp\\FreeCodeCamp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
